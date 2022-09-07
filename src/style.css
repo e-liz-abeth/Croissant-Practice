@@ -1,0 +1,48 @@
+body {
+  max-width: 750px;
+  background-color: #b5a886;
+  margin: 0 auto;
+}
+a {
+  text-decoration: none;
+  background-color: white;
+  border-radius: 5px;
+  padding: 5px;
+  color: black;
+}
+h1 {
+  font-size: 56px;
+  padding: 0;
+  margin: 0px;
+  margin-bottom: 20px;
+}
+.contact-main {
+  background-color: white;
+  border-radius: 7px;
+  padding: 15px;
+}
+.croissant-main {
+  background-color: white;
+  border-radius: 7px;
+  padding: 20px;
+}
+.photo-main {
+  background-color: white;
+  border-radius: 7px;
+  padding: 20px;
+}
+.img-primary {
+  display: block;
+  border-radius: 7px;
+  max-width: 350px;
+  margin: auto;
+  height: auto;
+}
+.links {
+  text-align: center;
+  padding: 15px;
+  font-size: 25px;
+  word-spacing: 10px;
+}
+
+/* CSS Variables */
