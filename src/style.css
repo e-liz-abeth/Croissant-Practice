@@ -2,6 +2,7 @@ body {
   max-width: 750px;
   background-color: #b5a886;
   margin: 0 auto;
+  margin-top: 150px;
 }
 a {
   text-decoration: none;
@@ -9,6 +10,11 @@ a {
   border-radius: 5px;
   padding: 5px;
   color: black;
+}
+a:hover {
+  background-color: black;
+  color: white;
+  transition: 0.5s;
 }
 h1 {
   font-size: 56px;
